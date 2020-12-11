@@ -21,7 +21,7 @@
 | Command                                                              | Description                      |
 | -------------------------------------------------------------------- | -------------------------------- |
 | git config --global user.name "Mukesh Mithrakumar"                   | Setting Global Username |
-| git config --global user.email "mukesh.mithrakumar@generalassemb.ly" | Setting Global Email |
+| git config --global user.email "mukesh.mithrakumar@...." | Setting Global Email |
 | git clone <url>                                                      | Clone a Repo from URL |
 | git init                                                             | Creating an empty GIT repository |
 | git add .                                                            | Adding all files to Git |
